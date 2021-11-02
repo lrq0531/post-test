@@ -20,7 +20,7 @@ Kill the server from linux.
 - run yarn install
 - run yarn start
 
-# Failed running web
+# Troubleshoot on running web
 - Please check if has node.js, npm and yarn installed in your machine.
 - install on windows 
 -- node.js and npm, download installer from https://nodejs.org/en/download/
