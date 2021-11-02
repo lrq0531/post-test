@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": [
+        "src"
+, "../../../post-test/post-web/src/main/pages/CommentLine.js", "../../../post-test/post-web/src/main/utils/httpUtils.js", "../../../post-test/post-web/src/main/constants.js", "../../../post-test/post-web/src/App.js"    ]
+}
