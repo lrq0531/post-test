@@ -29,3 +29,6 @@ Kill the server from linux.
 - install on ubuntu
 -- node.js and npm, run commands "sudo apt install nodejs", "sudo apt install npm"
 -- yarn, run "npm install --global yarn" to install yarn.
+
+# Codes analysis
+- Please check out zip file processEntitlmentOnRole.zip 
