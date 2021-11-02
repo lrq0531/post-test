@@ -32,3 +32,10 @@ Kill the server from linux.
 
 # Codes analysis
 - Please check out zip file processEntitlmentOnRole.zip 
+
+# Good to have apart from the functionalities
+- Expose all the APIs via https
+- Add JWT token authentication for all the APIs
+- Standard error message
+- Embed Swagger to help with the APIs users.
+- Provide pagination if the data resource size is huge.
